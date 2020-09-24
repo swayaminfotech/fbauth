@@ -1,0 +1,13 @@
+/*
+ Localizable.strings
+ FBAuth
+
+ Created by Swayam Infotech on 23/09/20.
+ Copyright © 2020 Swayam Infotech. All rights reserved.
+ */
+
+"company_name"                          = "Swayam Infotech";
+"name"                                  = "FBAuth";
+"profile_details"                       = "Profile Details";
+"continue_with_facebook"                = "Continue with Facebook";
+"internet_not_available"                = "Internet unavailable. Please try again later.";
